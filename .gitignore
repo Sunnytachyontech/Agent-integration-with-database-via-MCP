@@ -1,4 +1,8 @@
-.env.bak
+*.bak
+*/__pycache__/
 .env
-taketwo/
+.env.bak
 __pycache__/
+docs/
+taketwo/
+.env.pre-mcp.bak
